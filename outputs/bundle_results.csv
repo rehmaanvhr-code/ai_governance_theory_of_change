@@ -1,0 +1,65 @@
+bundle,n_interventions,harm_prevented,value_forgone,review_cost,net_benefit,mean_delay_days,incidents_avoided
+incident reporting + human in the loop,2,7374921.0,2091814.0,738000.0,4545107.0,3.0,8.0
+human in the loop,1,5979641.0,2091814.0,258000.0,3629827.0,3.0,5.0
+bias testing gate + incident reporting + human in the loop,3,10061177.0,4764321.0,1813200.0,3483656.0,9.0,12.0
+bias testing gate + human in the loop,2,9160747.0,4764321.0,1333200.0,3063226.0,9.0,10.0
+model documentation + incident reporting + human in the loop,3,8175262.0,3796181.0,1698000.0,2681081.0,8.0,9.0
+bias testing gate + incident reporting,2,6570836.0,2672506.0,1555200.0,2343130.0,6.0,9.0
+incident reporting + human in the loop + third party due diligence,3,7990041.0,4413104.0,1278000.0,2298936.0,8.0,9.0
+model documentation + human in the loop,2,6900559.0,3796181.0,1218000.0,1886378.0,8.0,7.0
+incident reporting,1,2190020.0,0.0,480000.0,1710020.0,0.0,3.0
+bias testing gate,1,5243208.0,2672506.0,1075200.0,1495502.0,6.0,7.0
+human in the loop + third party due diligence,2,6694178.0,4413104.0,798000.0,1483074.0,8.0,6.0
+bias testing gate + model documentation + incident reporting + human in the loop,4,10627899.0,6468687.0,2773200.0,1386012.0,14.0,13.0
+bias testing gate + incident reporting + human in the loop + third party due diligence,4,10405680.0,7085610.0,2353200.0,966870.0,13.0,12.0
+bias testing gate + model documentation + human in the loop,3,9712518.0,6468687.0,2293200.0,950631.0,14.0,11.0
+bias testing gate + human in the loop + third party due diligence,3,9622691.0,7085610.0,1873200.0,663881.0,13.0,11.0
+bias testing gate + model documentation + incident reporting,3,7427178.0,4376873.0,2515200.0,535105.0,11.0,10.0
+model documentation + incident reporting,2,3588214.0,1704366.0,1440000.0,443847.0,5.0,5.0
+model documentation + incident reporting + human in the loop + third party due diligence,4,8675507.0,6117471.0,2238000.0,320037.0,13.0,10.0
+bias testing gate + incident reporting + third party due diligence,3,7244731.0,4993796.0,2095200.0,155735.0,10.0,10.0
+none,0,0.0,0.0,0.0,0.0,0.0,0.0
+incident reporting + third party due diligence,2,3143471.0,2321290.0,1020000.0,-197818.0,4.0,5.0
+model documentation + human in the loop + third party due diligence,3,7575579.0,6117471.0,1758000.0,-299892.0,13.0,8.0
+bias testing gate + model documentation,2,6103186.0,4376873.0,2035200.0,-308887.0,11.0,8.0
+bias testing gate + third party due diligence,2,5947798.0,4993796.0,1615200.0,-661198.0,10.0,8.0
+model documentation,1,1484914.0,1704366.0,960000.0,-1179453.0,5.0,2.0
+bias testing gate + model documentation + incident reporting + human in the loop + third party due diligence,5,10887155.0,8789977.0,3313200.0,-1216022.0,18.0,13.0
+bias testing gate + model documentation + human in the loop + third party due diligence,4,10125699.0,8789977.0,2833200.0,-1497478.0,18.0,12.0
+model documentation + incident reporting + third party due diligence,3,4432185.0,4025656.0,1980000.0,-1573471.0,10.0,6.0
+bias testing gate + model documentation + incident reporting + third party due diligence,4,8076185.0,6698162.0,3055200.0,-1677177.0,15.0,11.0
+third party due diligence,1,1121839.0,2321290.0,540000.0,-1739451.0,4.0,2.0
+bias testing gate + model documentation + third party due diligence,3,6766074.0,6698162.0,2575200.0,-2507289.0,15.0,9.0
+model documentation + third party due diligence,2,2464593.0,4025656.0,1500000.0,-3061064.0,10.0,4.0
+ethics review board + incident reporting + human in the loop,3,9271582.0,10109333.0,3426000.0,-4263751.0,20.0,11.0
+ethics review board + human in the loop,2,8311394.0,10109333.0,2946000.0,-4743939.0,20.0,9.0
+ethics review board + incident reporting,2,5403701.0,8017518.0,3168000.0,-5781817.0,17.0,7.0
+ethics review board + bias testing gate + incident reporting + human in the loop,4,11389262.0,12781839.0,4501200.0,-5893777.0,26.0,14.0
+ethics review board + bias testing gate + human in the loop,3,10703846.0,12781839.0,4021200.0,-6099193.0,26.0,12.0
+ethics review board + bias testing gate + incident reporting,3,8747097.0,10690025.0,4243200.0,-6186127.0,22.0,11.0
+ethics review board + model documentation + incident reporting + human in the loop,4,9877992.0,11813699.0,4386000.0,-6321707.0,25.0,12.0
+ethics review board + incident reporting + human in the loop + third party due diligence,4,9753815.0,12430623.0,3966000.0,-6642808.0,25.0,11.0
+ethics review board + model documentation + human in the loop,3,8931859.0,11813699.0,3906000.0,-6787840.0,25.0,10.0
+ethics review board,1,3842891.0,8017518.0,2688000.0,-6862627.0,17.0,5.0
+ethics review board + bias testing gate,2,7562845.0,10690025.0,3763200.0,-6890379.0,22.0,10.0
+ethics review board + human in the loop + third party due diligence,3,8766322.0,12430623.0,3486000.0,-7150301.0,25.0,9.0
+ethics review board + model documentation + incident reporting,3,6274621.0,9721885.0,4128000.0,-7575264.0,22.0,9.0
+ethics review board + incident reporting + third party due diligence,3,6120150.0,10338808.0,3708000.0,-7926658.0,21.0,8.0
+ethics review board + bias testing gate + model documentation + incident reporting + human in the loop,5,11793634.0,14486205.0,5461200.0,-8153771.0,31.0,14.0
+ethics review board + bias testing gate + model documentation + incident reporting,4,9365276.0,12394391.0,5203200.0,-8232315.0,27.0,12.0
+ethics review board + bias testing gate + model documentation + human in the loop,4,11186377.0,14486205.0,4981200.0,-8281029.0,31.0,13.0
+ethics review board + bias testing gate + incident reporting + human in the loop + third party due diligence,5,11780414.0,15103129.0,5041200.0,-8363915.0,30.0,14.0
+ethics review board + model documentation,2,4920843.0,9721885.0,3648000.0,-8449042.0,22.0,6.0
+ethics review board + bias testing gate + incident reporting + third party due diligence,4,9174753.0,13011314.0,4783200.0,-8619762.0,27.0,12.0
+ethics review board + bias testing gate + human in the loop + third party due diligence,4,11002513.0,15103129.0,4561200.0,-8661816.0,30.0,13.0
+ethics review board + bias testing gate + model documentation,3,8355356.0,12394391.0,4723200.0,-8762235.0,27.0,11.0
+ethics review board + model documentation + incident reporting + human in the loop + third party due diligence,5,10246654.0,14134989.0,4926000.0,-8814335.0,30.0,12.0
+ethics review board + third party due diligence,2,4654063.0,10338808.0,3228000.0,-8912745.0,21.0,6.0
+ethics review board + bias testing gate + third party due diligence,3,8204751.0,13011314.0,4303200.0,-9109763.0,27.0,10.0
+ethics review board + model documentation + human in the loop + third party due diligence,4,9417859.0,14134989.0,4446000.0,-9163130.0,30.0,11.0
+ethics review board + model documentation + incident reporting + third party due diligence,4,6946032.0,12043175.0,4668000.0,-9765143.0,26.0,9.0
+ethics review board + model documentation + third party due diligence,3,5620968.0,12043175.0,4188000.0,-10610207.0,26.0,7.0
+ethics review board + bias testing gate + model documentation + incident reporting + third party due diligence,5,9814602.0,14715681.0,5743200.0,-10644279.0,32.0,13.0
+ethics review board + bias testing gate + model documentation + incident reporting + human in the loop + third party due diligence,6,12102321.0,16807495.0,6001200.0,-10706374.0,35.0,15.0
+ethics review board + bias testing gate + model documentation + human in the loop + third party due diligence,5,11577492.0,16807495.0,5521200.0,-10751204.0,35.0,14.0
+ethics review board + bias testing gate + model documentation + third party due diligence,4,8891176.0,14715681.0,5263200.0,-11087704.0,32.0,11.0

@@ -1,0 +1,4 @@
+tier,expected_harm_prevented,value_forgone,review_cost,net
+low,25085.0,368113.0,633600.0,-976628.0
+medium,865196.0,6726186.0,3115200.0,-8976191.0
+high,11454176.0,9713196.0,2252400.0,-511420.0
